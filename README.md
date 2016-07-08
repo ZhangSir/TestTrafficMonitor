@@ -1,0 +1,2 @@
+# TestTrafficMonitor
+这是一个测试系统流量统计类TrafficStats的程序，使用该类可以方便的实现APP流量监控；
